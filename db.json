@@ -1,0 +1,88 @@
+{
+    "grades": [
+        {
+            "dc_grade_id": 1,
+            "dc_grade_name": "LKG",
+            "dc_grade_bg_img": "http://203.78.160.21/videos/thumbs/1.png",
+            "dc_grade_order": 1
+        },
+        {
+            "dc_grade_id": 2,
+            "dc_grade_name": "UKG",
+            "dc_grade_bg_img": "http://203.78.160.21/videos/thumbs/2.jpg",
+            "dc_grade_order": 2
+        },
+        {
+            "dc_grade_id": 3,
+            "dc_grade_name": "Nursery",
+            "dc_grade_bg_img": "http://203.78.160.21/videos/thumbs/3.jpg",
+            "dc_grade_order": 3
+        },
+        {
+            "dc_grade_id": 4,
+            "dc_grade_name": "Class One",
+            "dc_grade_bg_img": "http://203.78.160.21/videos/thumbs/4.jpg",
+            "dc_grade_order": 4
+        }
+    ],
+    "subjects": [
+        {
+            "dc_subject_id": 1,
+            "dc_subject_code": "Eng",
+            "dc_subject_name": "English",
+            "dc_subject_icon": "http://203.78.160.21/videos/thumbs/1.png",
+            "dc_subject_order": 1
+        },
+        {
+            "dc_subject_id": 2,
+            "dc_subject_code": "Nep",
+            "dc_subject_name": "Nepali",
+            "dc_subject_icon": "http://203.78.160.21/videos/thumbs/2.jpg",
+            "dc_subject_order": 2
+        },
+        {
+            "dc_subject_id": 3,
+            "dc_subject_code": "Math",
+            "dc_subject_name": "Maths",
+            "dc_subject_icon": "http://203.78.160.21/videos/thumbs/3.jpg",
+            "dc_subject_order": 3
+        },
+        {
+            "dc_subject_id": 4,
+            "dc_subject_code": "Sci",
+            "dc_subject_name": "Science",
+            "dc_subject_icon": "http://203.78.160.21/videos/thumbs/4.jpb",
+            "dc_subject_order": 4
+        }
+    ],
+    "feeds": [
+        {
+            "id": 1,
+            "content": "http://203.78.160.21/videos/ActionMovie2019.mp4",
+            "thumbnail": "http://203.78.160.21/videos/thumbs/1.png",
+            "page_number": 1,
+            "dc_feed_order": 1
+        },
+        {
+            "id": 2,
+            "content": "http://203.78.160.21/videos/munnibadnam.mp4",
+            "thumbnail": "http://203.78.160.21/videos/thumbs/2.jpg",
+            "page_number": 1,
+            "dc_feed_order": 2
+        },
+        {
+            "id": 3,
+            "content": "http://203.78.160.21/videos/nepalisong1.mp4",
+            "thumbnail": "http://203.78.160.21/videos/thumbs/3.jpg",
+            "page_number": 1,
+            "dc_feed_order": 3
+        },
+        {
+            "id": 4,
+            "content": "http://203.78.160.21/videos/SampleVideo_1280x720_1mb.mp4",
+            "thumbnail": "http://203.78.160.21/videos/thumbs/4.jpg",
+            "page_number": 1,
+            "dc_feed_order": 4
+        }
+    ]
+}
