@@ -1,5 +1,5 @@
 {
-    "grades": [
+    "dcgrade": [
         {
             "dc_grade_id": 1,
             "dc_grade_name": "LKG",
@@ -25,7 +25,7 @@
             "dc_grade_order": 4
         }
     ],
-    "subjects": [
+    "dcsubject": [
         {
             "dc_subject_id": 1,
             "dc_subject_code": "Eng",
@@ -55,7 +55,7 @@
             "dc_subject_order": 4
         }
     ],
-    "feeds": [
+    "feed": [
         {
             "id": 1,
             "content": "http://203.78.160.21/videos/ActionMovie2019.mp4",
